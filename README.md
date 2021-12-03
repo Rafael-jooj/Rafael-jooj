@@ -5,7 +5,7 @@
 - 💻 Atualmente estou fazendo faculdade de Ciência da Computação
  &nbsp;
 <div>
-  <a href="https://https//github.com/Rafael-jooj
+  <a href="https://https//github.com/Rafael-jooj%22%3E
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Rafael-jooj&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-jooj&layout=compact&langs_count=7&theme=dark%22/%3E
 </div>
