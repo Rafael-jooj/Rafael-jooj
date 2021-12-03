@@ -1,7 +1,6 @@
 ### Olá meu nome é Rafael Silva
 
-- 🔭 Trabalhei na área de segurança de dados como estagiário
-- 🌱 Estou estudando Python, DB, HTML, CSS e JavaScript
+- 🌱 Estou estudando Python, DB, HTML, CSS e JavaScript, Dart
 - 💻 Atualmente estou fazendo faculdade de Ciência da Computação
  &nbsp;
 <div>
