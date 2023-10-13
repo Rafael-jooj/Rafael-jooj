@@ -1,6 +1,6 @@
 ### Olá! meu nome é Rafael Silva
 
-- 🌱 Estudando Python, DB, JavaScript, React, Dart e PHP
+- 🌱 Estudando PHP, Python, JavaScript, React e Banco de dados
 - 💻 Atualmente estou cursando Ciência da Computação pela universidade federal do tocantins
  &nbsp;
 <div align="left">
