@@ -1,7 +1,24 @@
-### Olá! meu nome é Rafael Silva
+## 👨‍💻 Rafael Silva
 
-- 🌱 Estudando PHP, Python, JavaScript, React e Banco de dados
-- 💻 Atualmente estou cursando Ciência da Computação pela universidade federal do tocantins
+Desenvolvedor Full Stack com foco em criar soluções robustas, escaláveis e orientadas à experiência do usuário.
+
+🎓 Bachareu em **Ciência da Computação** pela **Universidade Federal do Tocantins (UFT) 2020 - 2024**.
+
+🚀 Minhas principais stacks:
+
+- **Back-end:** PHP (Laravel)
+- **Front-end:** Vue.js, React, JavaScript
+- **Linguagens adicionais:** Python, C
+- **Bancos de dados:** MySQL, PostgreSQL, SQLite, MongoDB
+
+🔧 Comprometido com:
+
+- Boas práticas de desenvolvimento
+- Código limpo e bem estruturado
+- Evolução contínua e aprendizado constante
+- Integração entre conhecimento técnico e visão de produto
+
+---
  &nbsp;
 <div align="left">
   <a href="https://github.com/Rafael-jooj">
@@ -11,12 +28,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Rafa-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="right" alt="Rafa-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/YWulcxAZi24AAAAC/i-am-mclovin-fogell.gif">
 </div>
